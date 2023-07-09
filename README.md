@@ -30,4 +30,4 @@
 
 ### Spotify Channel 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/3tJ4BkNfEgz31s4v5sn2pb)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV)
